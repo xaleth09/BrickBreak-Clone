@@ -1,0 +1,20 @@
+{
+  "name": "BrickBreak",
+  "authors": [
+    "Roberto Garza <xaleth09@gmail.com>"
+  ],
+  "description": "brickbreak game",
+  "main": "index.html",
+  "keywords": [
+    "brickbreak"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

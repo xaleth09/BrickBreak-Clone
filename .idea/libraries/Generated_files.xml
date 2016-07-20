@@ -1,0 +1,43 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/alert-compiled.js" />
+        <item url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap-sprockets-compiled.js" />
+        <item url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap-compiled.js" />
+        <item url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap.min-compiled.js" />
+        <item url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/popover-compiled.js" />
+        <item url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/scrollspy-compiled.js" />
+        <item url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/transition-compiled.js" />
+        <item url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/dropdown-compiled.js" />
+        <item url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/modal-compiled.js" />
+        <item url="file://$PROJECT_DIR$/scripts/quadTree-compiled.js" />
+        <item url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/button-compiled.js" />
+        <item url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/collapse-compiled.js" />
+        <item url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/carousel-compiled.js" />
+        <item url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/tooltip-compiled.js" />
+        <item url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/tab-compiled.js" />
+        <item url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/affix-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/alert-compiled.js" />
+      <root url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap-sprockets-compiled.js" />
+      <root url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap-compiled.js" />
+      <root url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap.min-compiled.js" />
+      <root url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/popover-compiled.js" />
+      <root url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/scrollspy-compiled.js" />
+      <root url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/transition-compiled.js" />
+      <root url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/dropdown-compiled.js" />
+      <root url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/modal-compiled.js" />
+      <root url="file://$PROJECT_DIR$/scripts/quadTree-compiled.js" />
+      <root url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/button-compiled.js" />
+      <root url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/collapse-compiled.js" />
+      <root url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/carousel-compiled.js" />
+      <root url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/tooltip-compiled.js" />
+      <root url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/tab-compiled.js" />
+      <root url="file://$PROJECT_DIR$/bower_components/bootstrap-sass/assets/javascripts/bootstrap/affix-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
